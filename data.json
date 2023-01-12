@@ -1,0 +1,11 @@
+[{
+"programing": ["php", "javascript", "python", "dart", "mysql"],
+  "sports": [
+    "fcb barcelona",
+    "realmadrid",
+    "fcb bayernmunchen",
+    "napoli",
+    "liverpool"
+  ],
+  "countries": ["syria", "egypt", "jordan", "irq", "algeria"]
+}]
